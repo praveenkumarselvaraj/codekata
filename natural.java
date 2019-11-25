@@ -1,5 +1,5 @@
 import java.util.*;
-publi class natural
+public class natural
 {
     public static void main(String arv[])
     {
